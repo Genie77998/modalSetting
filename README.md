@@ -1,7 +1,6 @@
 # modalSetting
-react redux 根据配置设置内容返回设置后的内容
+    react redux 根据配置设置内容返回设置后的内容
 
-# modalSetting
     模版设置插件
 
 # develop
